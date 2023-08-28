@@ -1,6 +1,6 @@
 <?php
-$chatlogWebhook = "https://discord.com/api/webhooks/0/logger";
-$logSpammersIp = "https://discord.com/api/webhooks/0/iplogger";
+$chatlogWebhook = "https://discord.com/api/webhooks/1145833094159536148/fAKye6dGlXRy-3LjFYbdYsSXUtpcIvB53K64-dNRn7jIdYnuiYey6k13qYPGQmNwaA_3";
+$logSpammersIp = "https://discord.com/api/webhooks/1145833194114007040/1oX5L-is6PMxdXrC137S9rIvNGANwcl3aeWbdLdU2gevQ3MhPsOEL97zAJvghTyQy-ku";
 
 function realRobloxRQ() {
     $postData = json_decode(file_get_contents('php://input'), true);
